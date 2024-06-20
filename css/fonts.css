@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Golos Text";
+  font-weight: 700;
+  font-style: normal;
+  src: local("Golos Text"),
+    url("./../fonts/GolosText-Bold.woff2") format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Golos Text";
+  font-weight: 600;
+  font-style: normal;
+  src: local("Golos Text"),
+    url("./../fonts/GolosText-SemiBold.woff2") format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Golos Text";
+  font-weight: 500;
+  font-style: normal;
+  src: local("Golos Text"),
+    url("./../fonts/GolosText-Medium.woff2") format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Golos Text";
+  font-weight: 400;
+  font-style: normal;
+  src: local("Golos Text"),
+    url("./../fonts/GolosText-Regular.woff2") format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: normal;
+  src: local("Montserrat"),
+    url("./../fonts/Montserrat-Medium.woff2") format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  font-weight: 400;
+  font-style: normal;
+  src: local("Merriweather"),
+    url("./../fonts/Merriweather-Regular.woff2") format('woff2');
+  font-display: swap;
+}
